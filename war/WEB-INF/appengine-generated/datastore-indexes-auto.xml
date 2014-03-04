@@ -1,4 +1,4 @@
-<!-- Indices written at Mon, 3 Mar 2014 19:12:57 PST -->
+<!-- Indices written at Mon, 3 Mar 2014 20:24:25 PST -->
 
 <datastore-indexes>
 
@@ -7,7 +7,7 @@
         <property name="date" direction="desc"/>
     </datastore-index>
 
-    <!-- Used 4 times in query history -->
+    <!-- Used 1 time in query history -->
     <datastore-index kind="UBCEECE4172014MapGreeting" ancestor="true" source="auto">
         <property name="markerID" direction="asc"/>
         <property name="date" direction="desc"/>
